@@ -99,10 +99,10 @@ i18n.configure({
 client.on("ready", () => {
 
   console.log(`Connected to discord bot ${client.user.username}`);
-  console.log(`${client.user.username} Ready to use with prefix mp`);
+  console.log(`${client.user.username} Ready to use`);
   console.log(`Command used :`)
 
-  client.user.setActivity(`Play Music In Voice | mphelp`, { type:"PLAYING" });
+  client.user.setActivity(`satus`, { type:"PLAYING" });
 
 });
 
