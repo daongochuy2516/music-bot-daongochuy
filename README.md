@@ -8,5 +8,5 @@
 
 5. Thưởng thức bot :)
 
-Code by HuyCoder #6817, contact him if you have problem
+Code by daongochuy2008,  contact him if you have problem
 
